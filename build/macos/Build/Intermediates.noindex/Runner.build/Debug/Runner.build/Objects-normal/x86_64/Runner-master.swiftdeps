@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "317efb1e8ecc670ea75056850697f5e2"
+build_time: [1615894028, 158416000]
+inputs:
+  "/Users/hitesh/Workspace/workplace/demo/flutter/flutter_platform/flutter_platform/macos/Runner/MainFlutterWindow.swift": [1614838098, 0]
+  "/Users/hitesh/Workspace/workplace/demo/flutter/flutter_platform/flutter_platform/macos/Runner/AppDelegate.swift": [1614838098, 0]
+  "/Users/hitesh/Workspace/workplace/demo/flutter/flutter_platform/flutter_platform/macos/Flutter/GeneratedPluginRegistrant.swift": [1615894000, 412066414]
